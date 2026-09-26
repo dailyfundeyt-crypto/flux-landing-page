@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep Flux as one static-content TanStack Start landing route with local English/German copy and system fonts; this preserves the supported app format while avoiding tracking and external font requests.
